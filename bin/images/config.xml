@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<images>
+	<image path="img2.png"/>
+	<image path="img3.png"/>
+	<image path="img4.png"/>
+	<image path="img5.png"/>
+	<image path="img6.png"/>
+</images>
+
+<!-- 
+<image path="fundal1.jpg"/>
+<image path="fundal2.jpg"/>
+<image path="fundal3.jpg"/>
+
+
+<image path="img2.png"/>
+<image path="img3.png"/>
+<image path="img4.png"/>
+<image path="img5.png"/>
+<image path="img6.png"/>
+-->
